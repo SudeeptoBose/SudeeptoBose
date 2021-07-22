@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on ... my Internship
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... ReactJs
 - 🤔 I’m looking for help with ... ASP .NET Core
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/Sudeepto10)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/Sudeepto10)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like to draw 
+- ⚡ Fun fact: ... I like to draw, but I'm usually tired after work
