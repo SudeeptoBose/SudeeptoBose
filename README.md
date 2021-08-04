@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 ### Here is what I'm doing right now:
 
 
