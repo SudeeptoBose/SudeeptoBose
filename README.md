@@ -9,4 +9,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Sudeepto10)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like to draw, but I'm usually tired after work
+- ⚡ Fun fact: ... I like to draw, but I'm usually tired after work 😫
