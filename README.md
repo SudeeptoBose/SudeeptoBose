@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... my Internship
 - 🌱 I’m currently learning ... Javascript, React JS & Webflow
-- 👯 I’m looking to collaborate on ... React JS
+- 👯 I’m looking to collaborate on ... UI/UX
 - 🤔 I’m looking for help with ... Node JS
 - 💬 Ask me about ... Anything
 - 📫 Say Hi!: ... [Twitter](https://twitter.com/Sudeepto10)
