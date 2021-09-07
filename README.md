@@ -2,7 +2,7 @@
 ### Here is what I'm doing right now:
 
 
-- 🔭 I’m currently working on ... my Internship
+- 🔭 I’m currently working on ... Blog development using Webflow
 - 🌱 I’m currently learning ... Javascript, React JS & Webflow
 - 👯 I’m looking to collaborate on ... UI/UX
 - 🤔 I’m looking for help with ... Node JS
