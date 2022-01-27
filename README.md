@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Portfolio design using Webflow
-- 🌱 I’m currently learning ... Javascript, React & Next JS
+- 🌱 I’m currently learning ... React, Next & Node JS - I know that is a lot of JavaScript
 - 👯 I’m looking to collaborate on ... UI/UX
 - 🤔 I’m looking for help with ... Node JS
 - 💬 Ask me about ... Anything
