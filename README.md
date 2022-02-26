@@ -2,8 +2,8 @@
 ### Here is what I'm doing right now:
 
 
-- 🔭 I’m currently working on ... Portfolio design using Webflow
-- 🌱 I’m currently learning ... React, Next & Node JS - I know that is a lot of JavaScript
+- 🔭 I’m currently working on ... Project with ThreeJS
+- 🌱 I’m currently learning ... ThreeJS
 - 👯 I’m looking to collaborate on ... UI/UX
 - 🤔 I’m looking for help with ... Node JS
 - 💬 Ask me about ... Anything
